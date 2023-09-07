@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Django, C++ 
 - 🌱 I’m currently learning Kivy
 - I'm a Freelance available for jobs
-- 📫 How to reach me : e-mail, codemarinr.fr
+- 📫 How to reach me : e-mail, http://codemariner.fr
 
 <!---
 Codemariner-dev/Codemariner-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
